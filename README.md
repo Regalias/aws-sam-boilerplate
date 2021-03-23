@@ -12,12 +12,12 @@ Generic SAM template project
 ## Deploying
 
 1. Build
-```
+```sh
 sam build
 ```
 
 2. Deploy
-```
+```sh
 sam deploy --guided
 ```
 
